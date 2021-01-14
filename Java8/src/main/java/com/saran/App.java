@@ -3,9 +3,9 @@ import java.util.*;
 import java.util.stream.Collectors;
 public class App 
 {
-//Java 8   
- public static void main( String[] args )
+    public static void main( String[] args )
     {
+    	//Java 8
     	 List<Employee> list=new ArrayList<>();
     	  list.add(new Employee(111,"Altaf",25,"Male","IT",2012,3000));
     	  list.add(new Employee(112,"John",26,"Male","HR",2015,6000));
