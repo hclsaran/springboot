@@ -1,0 +1,78 @@
+[33mcommit 1f8dc80ee49425b48b8d18d3394b848afbb2cc23[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Saran <renusaran@hotmail.com>
+Date:   Wed Jan 27 19:54:36 2021 -0500
+
+    1st commit
+
+[33mcommit e150a8aa90483a1bc67c6091520a665f77d91b57[m
+Author: Saran <renusaran@hotmail.com>
+Date:   Thu Jan 14 16:55:03 2021 -0500
+
+    3
+
+[33mcommit d9c0ac1267dc2c0c822bab3f510fdad58ad3d5db[m
+Author: Saran <renusaran@hotmail.com>
+Date:   Wed Jan 13 21:13:28 2021 -0500
+
+    2 commit
+
+[33mcommit ded9fb189b8644818d7d56e6aa89f240574985a2[m
+Merge: cf394f9 a2686df
+Author: Saran <renusaran@hotmail.com>
+Date:   Wed Jan 13 21:10:38 2021 -0500
+
+    Merge branch 'main' of https://github.com/hclsaran/springboot into main
+
+[33mcommit a2686df9f1e85876c65f0a7d1278fad18afd95ca[m
+Author: hclsaran <renusaran@hotmail.com>
+Date:   Wed Jan 13 19:27:31 2021 -0500
+
+    Update SpringBootSwaggerApplication.java
+
+[33mcommit cf394f9b1db15475ce724f209182d3f8ee59f2cd[m
+Author: cogentbatch51 <cogent1415@gmail.com>
+Date:   Wed Jan 13 19:11:11 2021 -0500
+
+    test
+
+[33mcommit 687f9e75b44c84df1b459c4c6e575f9d23e67d9f[m
+Author: hclsaran <renusaran@hotmail.com>
+Date:   Wed Jan 13 18:50:20 2021 -0500
+
+    Test
+    
+    test
+
+[33mcommit ac689b583b9910f1ca778ee36d62d5672d4b823c[m
+Author: hclsaran <renusaran@hotmail.com>
+Date:   Wed Jan 13 18:39:17 2021 -0500
+
+    Delete test
+    
+    2nd commit
+
+[33mcommit e196f54d1ccda322cee9ce2048d7ba1e6bb361c9[m
+Author: hclsaran <renusaran@hotmail.com>
+Date:   Wed Jan 13 18:36:46 2021 -0500
+
+    Update test
+    
+    Initial commit
+
+[33mcommit cc1a0ece1166d6ca2625aadc17ee4dfd5e7e7e68[m
+Author: hclsaran <77113470+hclsaran@users.noreply.github.com>
+Date:   Wed Jan 13 13:27:19 2021 -0500
+
+    Update test
+
+[33mcommit 70dd925626903d5500c2e1b108b615f6179f55bb[m
+Author: hclsaran <77113470+hclsaran@users.noreply.github.com>
+Date:   Wed Jan 13 13:19:40 2021 -0500
+
+    Update test
+
+[33mcommit dd61696b38cb4baedef5b41e4d53c439efa6b5d9[m
+Author: hclsaran <77113470+hclsaran@users.noreply.github.com>
+Date:   Wed Jan 13 13:18:44 2021 -0500
+
+    Create test
